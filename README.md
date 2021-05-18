@@ -1,4 +1,6 @@
-<img style="text-align:center;" src="/logo/banner.png"/>
+<center>
+    <img style="text-align:center;" src="/logo/banner.png"/>
+</center>
 <hr>
 
 # HorsemanAnalyzer
