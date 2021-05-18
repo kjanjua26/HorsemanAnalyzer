@@ -1,5 +1,5 @@
 <center>
-    <img style="align:center;" src="/logo/banner.png"/>
+    <img align="center" src="/logo/banner.png"/>
 </center>
 <hr>
 
