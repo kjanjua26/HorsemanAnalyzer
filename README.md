@@ -13,8 +13,11 @@ The goal is to learn a classifer to classify songs into one of the three moods a
 ### Features
 
 1. Maintain a local library of songs and work on that :+1:
-2. Eventually plan on dyanmic functioning directly on Youtube, or perhaps running a backend storage server somewhere (Pi or so?)
-3. Extract features (MFCCs) :+1:
-4. Learn a classifier to categorize songs into three moods: happy, sad, romantic
-5. Peform DTW on the library and fetch similar songs
+2. Extract features (MFCCs) :+1:
+3. Learn a classifier to categorize songs into three moods: happy, sad, romantic
+4. Peform DTW on the library and fetch similar songs
+
+### Future Plans
+
+1. :collision: Eventually plan on dyanmic functioning directly on Youtube, or perhaps running a backend storage server somewhere (Pi or so?)
 
