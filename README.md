@@ -26,7 +26,7 @@ The goal is to learn a classifer to classify songs into one of the three moods a
 
 ### Future Plans
 
-:collision: Eventually plan on dyanmic functioning directly on Youtube, or perhaps running a backend storage server somewhere (Pi or so?)
-:collision: Add new moods and tag different songs on the new moods
+:collision: Eventually plan on dyanmic functioning directly on Youtube, or perhaps running a backend storage server somewhere (Pi or so?)</br>
+:collision: Add new moods and tag different songs on the new moods</br>
 :collision: Update classifier and re-run the entire pipeline (with the click of a button)
 
