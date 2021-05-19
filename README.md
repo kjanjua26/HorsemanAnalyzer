@@ -19,5 +19,5 @@ The goal is to learn a classifer to classify songs into one of the three moods a
 
 ### Future Plans
 
-1. :collision: Eventually plan on dyanmic functioning directly on Youtube, or perhaps running a backend storage server somewhere (Pi or so?)
+:collision: Eventually plan on dyanmic functioning directly on Youtube, or perhaps running a backend storage server somewhere (Pi or so?)
 
